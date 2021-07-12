@@ -8,6 +8,5 @@ public class EncryptDecrypt{
       System.out.print(c);
     }
   }
-  /*
-   make c-=key;
+   // make c-=key;
 }
