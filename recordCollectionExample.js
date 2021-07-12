@@ -1,4 +1,6 @@
 //Solution 1
+//https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/record-collection
+
 var recordCollection = {
   2548: {
     albumTitle: 'Slippery When Wet',
